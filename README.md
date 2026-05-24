@@ -66,8 +66,8 @@ To compile the modules and execute the unified testing array locally, clone and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/frank-morales2020/AST.git
-cd AST
+git clone https://github.com/frank-morales2020/ast_lefm.git
+cd ast_lefm
 
 # Install the library in editable mode
 pip install -e .
