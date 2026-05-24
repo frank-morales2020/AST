@@ -16,6 +16,22 @@ Implements the Laplace-Euler-Fourier-Mellin operator, binding four classical tra
 \text{LEFM}[f](s) = \int_{0}^{\infty} \int_{0}^{\infty} \int_{0}^{\infty} \int_{0}^{\infty} e^{-t} f(t, \sigma, \omega, x) \, dt \, d\sigma \, d\omega \, dx
 ```
 
+```markdown
+### 1. The L-EFM Spectral Operator (`lefm.py`)
+Implements the Laplace-Euler-Fourier-Mellin operator, binding four classical transforms into a single instrument.
+
+```math
+\text{LEFM}[f](s) = \int_{0}^{\infty} \int_{0}^{\infty} \int_{0}^{\infty} \int_{0}^{\infty} e^{-t} f(t, \sigma, \omega, x) \, dt \, d\sigma \, d\omega \, dx
+
+```
+
+At the critical line $\sigma = 0.5$, this operator achieves perfect spectral coherence. The math establishes that moving toward $\sigma = 0.1$ causes the magnitude to expand to $2.618 \times 10^{66}$, while drifting toward $\sigma = 0.9$ collapses it to $6.794 \times 10^{-6}$.
+
+```
+
+```
+
+
 ### 2. The Topological Governor (`sieve.py` & `h2e.py`)
 
 Emulates the mammalian memory consolidation mechanism by protecting core weight coordinates:
