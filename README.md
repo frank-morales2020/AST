@@ -14,6 +14,7 @@ Implements the Laplace-Euler-Fourier-Mellin operator, binding four classical tra
 
 ```math
 \text{LEFM}[f](s) = \int_{0}^{\infty} \int_{0}^{\infty} \int_{0}^{\infty} \int_{0}^{\infty} e^{-t} f(t, \sigma, \omega, x) \, dt \, d\sigma \, d\omega \, dx
+```
 
 
 $$\text{LEFM}[f](s) = \int_0^\infty \int_0^\infty \int_0^\infty \int_0^\infty e^{-t} f(t, \sigma, \omega, x) \, dt \, d\sigma \, d\omega \, dx$$
