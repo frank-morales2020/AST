@@ -14,6 +14,8 @@ Implements the Laplace-Euler-Fourier-Mellin operator, binding four classical tra
 
 ```math
 \text{LEFM}[f](s) = \int_{0}^{\infty} \int_{0}^{\infty} \int_{0}^{\infty} \int_{0}^{\infty} e^{-t} f(t, \sigma, \omega, x) \, dt \, d\sigma \, d\omega \, dx
+```
+
 ### 2. The Topological Governor (`sieve.py` & `h2e.py`)
 
 Emulates the mammalian memory consolidation mechanism by protecting core weight coordinates:
@@ -22,7 +24,7 @@ Emulates the mammalian memory consolidation mechanism by protecting core weight 
 * **Safety Threshold Derivation:** Computes the Euler attenuation product dynamically to establish the governance boundary:
 
 $$\Lambda = 1 - \prod_{p \le 13} (1 - p^{-0.5}) = 0.9785142874$$
-```
+
 
 
 
