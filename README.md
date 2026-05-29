@@ -7,16 +7,32 @@ An open-source library that unifies **number theory, harmonic analysis, and cont
 
 Welcome to the repository. Because GitHub's native notebook preview service frequently hits processing timeouts on complex structures, please use the direct launch and view buttons below for a seamless experience.
 
-## 🚀 Quick Links & Live Viewers
+
+
+## 🚀 Quick Links & Live Viewers --- Interactive Notebook Index
+
+> ⚠️ **Note on Viewing Notebooks:** Because GitHub's native preview engine frequently hits processing timeouts on deep structural AI models and prime-anchored embedding files, it can fail to load large files. **Please use the orange "Render" buttons below to view the notebooks instantly and flawlessly.**
 
 | Notebook File | Live Render (Instant View) | Open in Cloud |
 | :--- | :---: | :---: |
+| **BENCHMARK_TOPOLOGICAL_AI.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/BENCHMARK_TOPOLOGICAL_AI.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/BENCHMARK_TOPOLOGICAL_AI.ipynb) |
+| **DEEPSEEK_PRIME_ANCHORE_LLM.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/DEEPSEEK_PRIME_ANCHORE_LLM.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/DEEPSEEK_PRIME_ANCHORE_LLM.ipynb) |
+| **DEV_PRIME.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/DEV_PRIME.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/DEV_PRIME.ipynb) |
 | **DEV_TOPO_HF.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/DEV_TOPO_HF.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/DEV_TOPO_HF.ipynb) |
+| **GTT_LEFM.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/GTT_LEFM.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/GTT_LEFM.ipynb) |
+| **gpt_oss_TOPOLOGAL_AI.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/gpt_oss_TOPOLOGAL_AI.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/gpt_oss_TOPOLOGAL_AI.ipynb) |
+| **HF_REMOVE.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/HF_REMOVE.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/HF_REMOVE.ipynb) |
+| **MIXTRAL_PRIME_ANCHORE_LLM.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/MIXTRAL_PRIME_ANCHORE_LLM.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/MIXTRAL_PRIME_ANCHORE_LLM.ipynb) |
+| **NL_GEMINI_LEFM.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/NL_GEMINI_LEFM.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/NL_GEMINI_LEFM.ipynb) |
+| **PRIME_ANCHORE_LLM_NL.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/PRIME_ANCHORE_LLM_NL.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/PRIME_ANCHORE_LLM_NL.ipynb) |
 | **RH_IDE.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/RH_IDE.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/RH_IDE.ipynb) |
+| **RH_LEFM.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/RH_LEFM.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/RH_LEFM.ipynb) |
+| **TOPO_HF.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/TOPO_HF.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/TOPO_HF.ipynb) |
 | **UNIVERSAL_PRIME_ANCHORE_LLM.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/UNIVERSAL_PRIME_ANCHORE_LLM.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/UNIVERSAL_PRIME_ANCHORE_LLM.ipynb) |
 
 ---
-*Alternatively, you can browse the entire live directory tree directly via the [AST NBViewer Index](https://nbviewer.org/github/frank-morales2020/AST/tree/main/).*
+*Alternatively, browse the entire live workspace tree via the complete [AST NBViewer Project Index](https://nbviewer.org/github/frank-morales2020/AST/tree/main/).*
+
 ---
 
 ## 🔬 Core Components & Mathematical Infrastructure
