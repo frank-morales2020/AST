@@ -2,6 +2,21 @@
 
 An open-source library that unifies **number theory, harmonic analysis, and continuous machine learning**. By applying the Laplace-Extended Euler-Fourier-Mellin (**L-EFM**) operator, this framework quantifies prime number distributions, analyzes the critical line ($\sigma = 0.5$) of the Riemann Hypothesis, and runs a **Topological Governor** that eliminates catastrophic forgetting in Large Language Models (LLMs) with flat $O(1)$ efficiency.
 
+
+# AST (Advanced Topological Systems)
+
+Welcome to the repository. Because GitHub's native notebook preview service frequently hits processing timeouts on complex structures, please use the direct launch and view buttons below for a seamless experience.
+
+## 🚀 Quick Links & Live Viewers
+
+| Notebook File | Live Render (Instant View) | Open in Cloud |
+| :--- | :---: | :---: |
+| **DEV_TOPO_HF.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/DEV_TOPO_HF.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/DEV_TOPO_HF.ipynb) |
+| **RH_IDE.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/RH_IDE.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/RH_IDE.ipynb) |
+| **UNIVERSAL_PRIME_ANCHORE_LLM.ipynb** | [![View with NBViewer](https://img.shields.io/badge/Render-NBViewer-orange.svg)](https://nbviewer.org/github/frank-morales2020/AST/blob/main/UNIVERSAL_PRIME_ANCHORE_LLM.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank-morales2020/AST/blob/main/UNIVERSAL_PRIME_ANCHORE_LLM.ipynb) |
+
+---
+*Alternatively, you can browse the entire live directory tree directly via the [AST NBViewer Index](https://nbviewer.org/github/frank-morales2020/AST/tree/main/).*
 ---
 
 ## 🔬 Core Components & Mathematical Infrastructure
