@@ -1,13 +1,8 @@
 # Arithmetic Spectral Theory (AST) & Topological AI: Prime-Anchored Runtimes
 
-An open-source library that unifies **number theory, harmonic analysis, and continuous machine learning**. By applying the Laplace-Extended Euler-Fourier-Mellin (**L-EFM**) operator, this framework quantifies prime number distributions, analyzes the critical line ($\sigma = 0.5$) of the Riemann Hypothesis, and runs a **Topological Governor** that eliminates catastrophic forgetting in Large Language Models (LLMs) with flat $O(1)$ efficiency.
-
-
-# AST (Advanced Topological Systems)
-
 Welcome to the repository. Because GitHub's native notebook preview service frequently hits processing timeouts on complex structures, please use the direct launch and view buttons below for a seamless experience.
 
-
+An open-source library that unifies **number theory, harmonic analysis, and continuous machine learning**. By applying the Laplace-Extended Euler-Fourier-Mellin (**L-EFM**) operator, this framework quantifies prime number distributions, analyzes the critical line ($\sigma = 0.5$) of the Riemann Hypothesis, and runs a **Topological Governor** that eliminates catastrophic forgetting in Large Language Models (LLMs) with flat $O(1)$ efficiency.
 
 ## 🚀 Quick Links & Live Viewers --- Interactive Notebook Index
 
